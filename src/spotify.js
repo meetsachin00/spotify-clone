@@ -2,7 +2,7 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 // Replace with your app's client ID, redirect URI and desired scopes
 const clientId = "1475f4cee39f465c8fe4391d57b838a4";
-const redirectUri = "https://spotify-clone-nvej33c7y-meetsachin00.vercel.app/";
+const redirectUri = "https://spotify-clone-me87u9l5q-meetsachin00.vercel.app";
 const scopes = [
   "user-read-playback-position",
   "user-read-email",
